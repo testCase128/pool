@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class WeightedAverages {
+**public class WeightedAverages {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
@@ -19,4 +19,4 @@ public class WeightedAverages {
             System.out.printf("%.1f \n",result);
         }
     }
-}
+}**
